@@ -1,0 +1,212 @@
+
+p {
+  font-family: Arial;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.video-title {
+  width: 300px;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 25px;
+  margin-bottom: 6px;
+}
+
+.video-subtitle {
+  color: rgb(96, 96, 96);
+  font-size: 14px;
+  margin-bottom: 24px;
+}
+
+.author-video {
+  color: rgb(96, 96, 96);
+  font-size: 14px;
+  margin-bottom: 24px;
+}
+
+.video-description {
+  color: rgb(96, 96, 96);
+  width: 300px;
+  font-size: 14px;
+  margin-bottom: 100px;
+}
+
+  .shop-p {
+    background-color: rgb(227, 65, 64);
+    text-align: center;
+    padding-bottom: 20px ;
+    padding-top: 20px;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+  }
+
+  .span-shop-p {
+    transition: text-decoration 0.2s;
+    cursor: pointer;
+  }
+
+  .span-shop-p:hover {
+    text-decoration: underline;
+  }
+
+  .tahoma-text {
+    font-family: Tahoma;
+    margin-bottom: 20px;
+  }
+
+  .title-5c {
+    font-family: Verdana;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 3px;
+  }
+
+  .subtitle-5c {
+    color: rgb(96, 96, 96);
+    margin-bottom: 15px;
+    
+  }
+
+  .description-5c {
+    width: 260px;
+    margin-bottom: 18px;
+  }
+
+  .start-btn {
+    color: white;
+    background-color: green;
+    border-color: green;
+    border-style: solid;
+    border-radius: 4px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 5px;
+    padding-bottom: 5px;  
+  }
+
+  .title-5b {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+
+  .subtitle-5b {
+    color: red;
+    font-style: italic;
+  }
+
+  .t5d {
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+
+  .s5d {
+    text-align: center;
+    margin-bottom: 15px;
+  }
+
+  .m5d {
+    text-align: center;
+    color: rgb(115, 115, 239);
+    margin-bottom: 15px;
+  }
+
+  .New-5e{
+    font-size: 11px;
+    text-align: center;
+    font-weight: bold;
+    color: rgba(255, 171, 44, 1);
+    margin-bottom: 4px;
+  }
+
+  .Mac-5e {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 2px;
+  }
+
+  .Description-5e {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+  .Price-5e {
+    font-size: 12px;
+    color: rgb(96,96,96);
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+  .container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .btn-5e {
+    font-size: 10px;
+    font-weight: bold;
+    color: white;
+    border-color: blue;
+    border-style: solid;
+    border-radius: 12px;
+    background-color: blue;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 3px;
+    padding-bottom: 3px;  
+  }
+
+  .value-text {
+    font-size: 24px;
+    margin-bottom: 3px;
+  }
+
+  .usd {
+    font-size: 12px;
+    color: rgba(62, 62, 62, 1);
+  }
+
+  .plus-text {
+    font-size: 10px;
+    color: green;
+    margin-bottom: 5px;
+  }
+
+  .descont-text {
+    font-size: 10px;
+    color:  rgba(62, 62, 62, 1);
+  }
+
+  .percent {
+    color: red;
+  }
+
+  .author-tt {
+    margin-bottom: 10px;
+  }
+
+  .name-author {
+    font-weight: bold;
+  }
+
+  .user-author {
+    color: rgb(96,96,96)
+  }
+
+  .msg-tt {
+    width: 500px;
+  }
+
+  .space-between {
+    margin-top: 20px;
+  }
+
+  .twitter-handle {
+    color: blue;
+  }

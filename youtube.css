@@ -1,0 +1,16 @@
+.nav-bar {
+  height: 300px;
+
+}
+
+img {
+  width: 300px;
+}
+
+.search {
+  font-size: 20px;
+}
+
+.title-video, .info-video {
+  display: inline-block;
+}

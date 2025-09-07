@@ -1,0 +1,17 @@
+ .title {
+      font-size: 30px;
+      text-align: center;
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 700;
+      margin-bottom: 0px;
+    }
+
+    .subtitle {
+      text-align: center;
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 400;
+    }
+
+    .span-subtitle {
+      text-decoration: underline;
+    }
